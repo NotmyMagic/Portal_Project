@@ -112,3 +112,7 @@ footer {
   align-items: center;
   justify-content: center;
 }
+
+.dark-link {
+  color: #df3737;
+}
